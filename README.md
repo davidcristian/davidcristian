@@ -1,3 +1,3 @@
 ###### contact: davidcristian[at]keemail.me
 
-![](https://komarev.com/ghpvc/?davidcristian&color=grey&style=flat-square&label=)
+![](https://komarev.com/ghpvc/?username=davidcristian&color=grey&style=flat-square&label=views)
